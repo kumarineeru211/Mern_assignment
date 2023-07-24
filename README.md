@@ -2,7 +2,9 @@
 #  User Data Management App - Full Stack Web Application
 
  This repository contains a full-stack web application, built using Node.js, Express.js, MongoDB, React.js, and fetch. The User Data Management App allows users to manage user data through a clean and intuitive user interface on frontend interface, interacting with the backend API to handle data validation and storage.
-
+## Technologies Used
+- Frontend: HTML, TailwindCss, JavaScript, React
+- Backend: Node.js, Express, MongoDB
 
 ## Deployment Environment Set Up
 
